@@ -1,16 +1,16 @@
 [
   {
-    "name": "Wrapped Glimmer",
-    "address": "0xe73763DB808ecCDC0E36bC8E32510ED126910394",
-    "symbol": "WGLMR",
+    "name": "TWC Glimmer",
+    "address": "0xdC611CB835787AB17483D841F06de8ebE433c72C",
+    "symbol": "TWC",
     "decimals": 18,
     "chainId": 1287,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
   },
   {
-    "name": "Custom ERC20 Token",
-    "address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",
-    "symbol": "ERC20S",
+    "name": "Custom DGFI Token",
+    "address": "0xB9deFCc42c48a57402a715F27CC03e94808f0285",
+    "symbol": "DGFI",
     "decimals": 18,
     "chainId": 1287,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
