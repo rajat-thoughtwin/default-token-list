@@ -194,14 +194,6 @@
   },
   {
     "chainId": 42161,
-    "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-  },
-  {
-    "chainId": 42161,
     "address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
     "name": "Swapr",
     "symbol": "SWPR",

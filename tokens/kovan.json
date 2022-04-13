@@ -24,13 +24,6 @@
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "SushiToken",
-    "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 42
-  },
-  {
     "chainId": 42,
     "address": "0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
     "name": "0x Protocol Token",

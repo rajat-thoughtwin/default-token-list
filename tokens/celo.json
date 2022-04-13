@@ -184,14 +184,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D/logo.png"
   },
   {
-    "name": "Optics SushiToken v2",
-    "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1/logo.png"
-  },
-  {
     "name": "Optics WETH v2",
     "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
     "symbol": "WETH",

@@ -24,13 +24,6 @@
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "SushiToken",
-    "address": "0x5457Cc9B34eA486eB8d3286329F3536f71fa8A8B",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 3
-  },
-  {
     "name": "USD Coin",
     "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
     "symbol": "USDC",

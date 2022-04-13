@@ -368,14 +368,6 @@
     "logoURI": "https://hecoinfo.com/images/main/empty-token.png"
   },
   {
-    "name": "SUSHI",
-    "address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 128,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-  },
-  {
     "chainId": 128,
     "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
     "name": "WOWSwap",

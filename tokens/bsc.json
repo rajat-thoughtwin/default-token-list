@@ -632,14 +632,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg"
   },
   {
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg"
-  },
-  {
     "name": "MacaronSwap Token",
     "symbol": "MCRN",
     "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
