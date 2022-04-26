@@ -31,7 +31,7 @@ const NAME = {
   [ChainId.MATIC]: "matic",
   [ChainId.MATIC_TESTNET]: "matic-testnet",
   [ChainId.MOONRIVER]: "moonriver",
-  [ChainId.MOONBEAM_TESTNET]: "moonbase",
+  [ChainId.MOONBEAM_TESTNET]: "moonbeam-testnet",
   [ChainId.OKEX]: "okex",
   [ChainId.OKEX]: "okex-testnet",
   [ChainId.PALM]: "palm",

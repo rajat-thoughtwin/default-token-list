@@ -23,6 +23,8 @@ export const GRAPH_HOST: Partial<Record<ChainId, string>> = {
   [ChainId.KOVAN]: THE_GRAPH,
   [ChainId.FUSE]: THE_GRAPH,
   [ChainId.MOONBEAM]: THE_GRAPH,
+  [ChainId.MOONBEAM_TESTNET]: THE_GRAPH,
+
 };
 
 export const BLOCKS: Partial<Record<ChainId, string>> = {

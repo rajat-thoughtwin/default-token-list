@@ -1712,6 +1712,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c/logo.png"
   },
   {
+    "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "chainId": 1,
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
     "address": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
     "chainId": 1,
     "name": "Swag Finance",

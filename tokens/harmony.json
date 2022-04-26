@@ -97,6 +97,14 @@
 	},
 	{
 		"chainId": 1666600000,
+		"address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+		"symbol": "SUSHI",
+		"name": "Sushi Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+	},
+	{
+		"chainId": 1666600000,
 		"address": "0x90D81749da8867962c760414C1C25ec926E889b6",
 		"symbol": "UNI",
 		"name": "Uniswap",

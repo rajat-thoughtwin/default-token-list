@@ -40,6 +40,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/telos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f.jpg"
   },
   {
+    "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+    "chainId": 40,
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/telos/0x922D641a426DcFFaeF11680e5358F34d97d112E1.jpg"
+  },
+  {
     "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
     "chainId": 40,
     "name": "Binance Coin",

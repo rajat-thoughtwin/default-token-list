@@ -496,6 +496,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
   },
   {
+    "name": "SushiToken",
+    "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
     "name": "SportX",
     "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
     "symbol": "SX",
